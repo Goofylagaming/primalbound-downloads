@@ -1,10 +1,8 @@
 # Primalbound World — Windows playtest
 
-Official desktop playtest downloads. The first verified Windows release is being prepared.
+Official desktop playtest downloads. The verified Windows playtest is available below.
 
 ## Download
-
-Once the first release is published:
 
 - [Download for Windows](https://github.com/Goofylagaming/primalbound-downloads/releases/latest/download/PrimalboundWorld-Windows.zip)
 - [Latest release and checksum](https://github.com/Goofylagaming/primalbound-downloads/releases/latest)
